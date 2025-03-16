@@ -1,5 +1,5 @@
 import sys
-import logging
+from src.logger import logging
 
 
 # function to decide how the error message will look like
@@ -26,12 +26,12 @@ class CustomeException(Exception):
         return self.error_message
 
 
-#testing part
+# testing part
 # if __name__=="__main__":
     
 #     try:
 #         a=10/0
 #     except Exception as e:
-        
-#         raise CustomeException(e,sys)
 #         logging.info(" Divide by Zero error ocurred")
+#         raise CustomeException(e,sys)
+        
