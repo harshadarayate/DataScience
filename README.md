@@ -4,7 +4,7 @@
 
 ## Overview
 
-Welcome to the **DataScience** repository by Harsha Darayate! This repo serves as a collection of tools, notebooks, and source code for data science projects, focusing on exploratory data analysis (EDA), model development, and robust Python utilities like logging and exception handling.
+Welcome to the **DataScience** repository by Harshada Rayate! This repo serves as a collection of tools, notebooks, and source code for data science projects, focusing on exploratory data analysis (EDA), model development, and robust Python utilities like logging and exception handling.
 
 Built with reproducibility in mind, it includes setup for easy installation and a modular structure for extending data workflows.
 
